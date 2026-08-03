@@ -26,6 +26,8 @@ The Geographic Divide: Urban Acute Care hospitals average 190 minutes in ER wait
 
 The Ownership Impact: Physician-owned hospitals have the lowest readmission rates (14.52), while Government-State hospitals have the highest (15.28).
 
+<img width="1350" height="784" alt="image" src="https://github.com/user-attachments/assets/d081acda-d13b-478a-8ec5-ef37ea06b725" />
+
 Tech Stack
 
 Database: Microsoft SQL Server (T-SQL, Graph DB)
